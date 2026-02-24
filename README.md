@@ -111,5 +111,3 @@ $rows | Export-Csv -Path $path -NoTypeInformation -Encoding UTF8
 ## Project Structure
 - eventbrite_hamilton_scraper.py — CLI scraper producing a CSV
 
-## License
-No license specified. Add a LICENSE file appropriate to your use case (e.g., MIT, Apache-2.0).
